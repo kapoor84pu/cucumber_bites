@@ -2,7 +2,8 @@ package customer.retail;
 
 public class CustomerType {
 
-	private int years;	
+	private int years;
+	
 
 	public void withUsFrom(int years) {
 		this.years = years;		
